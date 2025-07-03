@@ -1,5 +1,6 @@
 streamlit
 nltk==3.9.1
+fpdf==1.7.2
 PySastrawi==1.2.0
 scikit-learn==1.6.1
 numpy==1.19.5
