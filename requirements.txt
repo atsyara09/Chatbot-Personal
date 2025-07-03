@@ -1,0 +1,14 @@
+streamlit
+keras
+tensorflow
+nltk
+sastrawi
+scikit-learn
+numpy
+scipy
+pandas
+matplotlib
+json
+string
+pickle
+pyplot
