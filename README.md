@@ -1,2 +1,2 @@
-# Chatbot-Personal
+# Chatbot
 Chatbot Layanan Akademik di Fakultas Komputer Universitas Ichsan Gorontalo
